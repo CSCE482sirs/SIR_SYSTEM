@@ -1,0 +1,83 @@
+/*--- All CSS are contain here for the download page---*/
+
+
+img#e8              { /* images/sir003003.png */
+	background-color: transparent;
+	position        : absolute;
+	left            :  33.00pt;
+	top             :   4.50pt;
+	width           :  25.50pt;
+	height          :  63.00pt;
+	}
+span#e7             { /* images/sir003002.gif */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,984.75pt,0.75pt,0.00pt);
+	background      : transparent url(images/sir003002.gif) no-repeat top left;
+	position        : absolute;
+	left            :   2.25pt;
+	top             :  75.00pt;
+	width           : 984.75pt;
+	height          :   0.75pt;
+	}
+span#e6             { /* images/sir003001.png */
+	background      : transparent url(images/sir003001.png) no-repeat top left;
+	position        : absolute;
+	left            :   4.50pt;
+	top             : 116.25pt;
+	width           : 993.00pt;
+	height          :1305.00pt;
+	}
+div#e5              { /* Home */
+	position        : absolute;
+	left            :   2.25pt;
+	top             :  78.75pt;
+	width           : 170.25pt;
+	height          :  21.75pt;
+	}
+div#e4              { /* Application */
+	position        : absolute;
+	left            : 401.25pt;
+	top             :  78.00pt;
+	width           : 170.25pt;
+	height          :  21.75pt;
+	}
+div#e3              { /* Contact Us */
+	position        : absolute;
+	left            : 801.00pt;
+	top             :  78.00pt;
+	width           : 170.25pt;
+	height          :  21.75pt;
+	}
+h1#e2               { /* S.I.R Service */
+	font            : bold 20pt 'Trajan Pro';
+	position        : absolute;
+	left            : 321.75pt;
+	top             :  30.00pt;
+	width           : 316.50pt;
+	height          :  30.00pt;
+	}
+span#e1             { /* images/logout_button.jpg */
+	background      : transparent url(images/logout_button.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 896.25pt;
+	top             :   6.75pt;
+	width           : 100.50pt;
+	height          :  18.75pt;
+	}
+div#page            { /* Page Holder */
+	background-image: url(images/sir003b01.jpg);
+	position        : relative;
+	width           :1002.00pt;
+	height          :1500.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #a1ecff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

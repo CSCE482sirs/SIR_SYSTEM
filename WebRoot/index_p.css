@@ -1,0 +1,64 @@
+/*--- All CSS are contain here for the index page---*/
+
+
+span#e5             { /* images/sir001002.png */
+	background      : transparent url(images/sir001002.png) no-repeat top left;
+	position        : absolute;
+	left            : 333.75pt;
+	top             :  45.00pt;
+	width           :  77.25pt;
+	height          : 193.50pt;
+	}
+h1#e4               { /* Select Input Recommender... */
+	font            : bold 28pt 'Trajan Pro';
+	position        : absolute;
+	left            :  61.50pt;
+	top             : 261.75pt;
+	width           : 644.25pt;
+	height          :  75.75pt;
+	}
+span#e3             { /* images/sir001001.gif */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,202.50pt,0.75pt,0.00pt);
+	background      : transparent url(images/sir001001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 283.50pt;
+	top             : 338.25pt;
+	width           : 202.50pt;
+	height          :   0.75pt;
+	}
+h3#e2               { /* Developers */
+	border          :   0.75pt solid #000000;
+	padding         :   3.75pt;
+	position        : absolute;
+	left            : 460.50pt;
+	top             : 349.50pt;
+	width           : 145.50pt;
+	height          :  19.50pt;
+	}
+h3#e1               { /* Wiki */
+	border          :   0.75pt solid #000000;
+	padding         :   3.75pt;
+	position        : absolute;
+	left            : 161.25pt;
+	top             : 349.50pt;
+	width           : 145.50pt;
+	height          :  19.50pt;
+	}
+div#page            { /* Page Holder */
+	background-image: url(images/sir001b01.jpg);
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #a1ecff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,75 @@
+/*--- All CSS are contain here for the developer page---*/
+
+
+img#e7              { /* images/sir002003.png */
+	background-color: transparent;
+	position        : absolute;
+	left            : 347.25pt;
+	top             :   7.50pt;
+	width           :  50.25pt;
+	height          : 126.00pt;
+	}
+h1#e6               { /* DEVELOPER */
+	font            : bold 20pt 'Trajan Pro';
+	position        : absolute;
+	left            : 267.75pt;
+	top             : 138.00pt;
+	width           : 193.50pt;
+	height          :  27.75pt;
+	}
+span#e5             { /* images/sir002002.gif */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,600.00pt,0.75pt,0.00pt);
+	background      : transparent url(images/sir002002.gif) no-repeat top left;
+	position        : absolute;
+	left            :  72.75pt;
+	top             : 174.75pt;
+	width           : 600.00pt;
+	height          :   0.75pt;
+	}
+span#e4             { /* images/sir002001.png */
+	background      : transparent url(images/sir002001.png) no-repeat top left;
+	position        : absolute;
+	left            :  72.75pt;
+	top             : 207.00pt;
+	width           : 600.00pt;
+	height          : 345.00pt;
+	}
+div#e3              { /* Home */
+	position        : absolute;
+	left            :  72.75pt;
+	top             : 177.75pt;
+	width           : 102.75pt;
+	height          :  19.50pt;
+	}
+div#e2              { /* Download */
+	position        : absolute;
+	left            : 319.50pt;
+	top             : 177.75pt;
+	width           : 102.75pt;
+	height          :  19.50pt;
+	}
+div#e1              { /* Contact Us */
+	position        : absolute;
+	left            : 566.25pt;
+	top             : 176.25pt;
+	width           : 102.75pt;
+	height          :  19.50pt;
+	}
+div#page            { /* Page Holder */
+	background-image: url(images/sir002b01.jpg);
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #a1ecff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/

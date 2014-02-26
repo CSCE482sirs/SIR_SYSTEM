@@ -1,0 +1,102 @@
+/*--- All CSS are contain here for the contact page---*/
+
+
+.cc01               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #404040;
+	}
+img#e10             { /* images/sir002003.png */
+	background-color: transparent;
+	position        : absolute;
+	left            : 347.25pt;
+	top             :   7.50pt;
+	width           :  50.25pt;
+	height          : 126.00pt;
+	}
+span#e9             { /* images/sir004003.gif */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,600.00pt,0.75pt,0.00pt);
+	background      : transparent url(images/sir004003.gif) no-repeat top left;
+	position        : absolute;
+	left            :  72.75pt;
+	top             : 174.75pt;
+	width           : 600.00pt;
+	height          :   0.75pt;
+	}
+span#e8             { /* images/sir002001.png */
+	background      : transparent url(images/sir002001.png) no-repeat top left;
+	position        : absolute;
+	left            :  72.75pt;
+	top             : 207.00pt;
+	width           : 600.00pt;
+	height          : 345.00pt;
+	}
+div#e7              { /* Home */
+	position        : absolute;
+	left            :  72.75pt;
+	top             : 178.50pt;
+	width           : 102.75pt;
+	height          :  19.50pt;
+	}
+div#e6              { /* Contact Us */
+	position        : absolute;
+	left            : 564.75pt;
+	top             : 178.50pt;
+	width           : 102.75pt;
+	height          :  19.50pt;
+	}
+div#e5              { /* Download */
+	position        : absolute;
+	left            : 318.75pt;
+	top             : 178.50pt;
+	width           : 102.75pt;
+	height          :  19.50pt;
+	}
+div#e4              { /* <DIV>If you experience a... */
+	position        : absolute;
+	left            : 123.75pt;
+	top             : 235.50pt;
+	width           : 557.25pt;
+	height          : 219.75pt;
+	}
+span#e3             { /* images/sir004001.png */
+	background      : transparent url(images/sir004001.png) no-repeat top left;
+	position        : absolute;
+	left            : 444.00pt;
+	top             : 264.75pt;
+	width           : 192.75pt;
+	height          : 176.25pt;
+	}
+h1#e2               { /* S.I.R. Service */
+	font            : bold 20pt 'Trajan Pro';
+	position        : absolute;
+	left            : 274.50pt;
+	top             : 138.00pt;
+	width           : 193.50pt;
+	height          :  27.75pt;
+	}
+span#e1             { /* images/logout_button.jpg */
+	background      : transparent url(images/logout_button.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 628.50pt;
+	top             :  18.00pt;
+	width           : 100.50pt;
+	height          :  18.75pt;
+	}
+div#page            { /* Page Holder */
+	background-image: url(images/sir004b01.jpg);
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #a1ecff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
