@@ -1,0 +1,750 @@
+;
+; Album     24/02/2014 20:28:42
+; Pages: 4 
+;
+begin
+	IxlaPhotoAlbum == 0
+	push_object IxlaPhotoAlbum
+	def ,`build_as`,`cssht`,yes,
+	def ,`col`,4,yes,
+	def ,`cur_page`,2,yes,
+	def ,`depth`,831,yes,
+	def ,`exterior`,`0 0`,no,
+	def ,`htm_dir_img`,`images`,yes,
+	def ,`htm_dir_lnk`,`linked`,yes,
+	def ,`htm_footer`,`center`,yes,
+	def ,`htm_txc_alink`,`#ff0000`,yes,
+	def ,`htm_txc_nlink`,`#000000`,yes,
+	def ,`htm_txc_vlink`,`#4d4d4d`,yes,
+	def ,`img_type`,`.PNG`,yes,
+	def ,`main_name`,`index.htm`,yes,
+	def ,`page bgc`,`white`,yes,
+	PG151626600 == 0
+	push_object PG151626600
+	OBJ151626600 == 0
+	push_object OBJ151626600
+	def ,`POINT00001`,445,60,
+	def ,`POINT00002`,547,317,
+	def ,`name`,`E:\Users\gtsrental\Documents\Aben\TexasA&M\CSCE482\website\images\logo.png`,yes,
+	def ,`styleclass`,CS1516266047,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10000`,`G_IMAGE`,OBJ151626600,
+	OBJ151626601 == 0
+	push_object OBJ151626601
+	def ,`POINT00001`,82,349,
+	def ,`POINT00002`,940,449,
+	def ,`fgc`,`#003333`,yes,
+	def ,`font`,`Trajan Pro#28#Bold#0#0#0`,yes,
+	def ,`name`,`Select Input Recommender (S.I.R.) 
+Service`,yes,
+	def ,`styleclass`,CS1516266022,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10001`,`G_TEXT`,OBJ151626601,
+	OBJ151626602 == 0
+	push_object OBJ151626602
+	def ,`POINT00001`,378,451,
+	def ,`POINT00002`,647,451,
+	def ,`styleclass`,CS1516266022,yes,
+	def ,`type`,`G_LINE`,yes,
+	pop_current_object
+	def ,`10002`,`G_LINE`,OBJ151626602,
+	OBJ151626603 == 0
+	push_object OBJ151626603
+	def ,`POINT00001`,615,467,
+	def ,`POINT00002`,818,502,
+	def ,`bdc`,`#000000`,yes,
+	def ,`border`,`rectangle`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	def ,`link`,`page 2`,yes,
+	def ,`name`,`Developers`,yes,
+	def ,`padding`,5,yes,
+	def ,`styleclass`,CS1516266024,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10003`,`G_TEXT`,OBJ151626603,
+	OBJ151626604 == 0
+	push_object OBJ151626604
+	def ,`POINT00001`,216,467,
+	def ,`POINT00002`,419,502,
+	def ,`bdc`,`#000000`,yes,
+	def ,`border`,`rectangle`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	def ,`link`,`page 2`,yes,
+	def ,`name`,`Wiki`,yes,
+	def ,`padding`,5,yes,
+	def ,`styleclass`,CS1516266024,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10004`,`G_TEXT`,OBJ151626604,
+	def ,`htm_head_icon`,`E:\Users\gtsrental\Documents\Aben\TexasA&M\CSCE315\final project\build\images\yoop.ico`,yes,
+	def ,`styleclass`,CS1516266047,yes,
+	def ,`thumb`,404,yes,
+	def ,`title`,`S.I.R Service`,yes,
+	pop_current_object
+	def ,`page001`,PG151626600,yes,
+	PG151626601 == 0
+	push_object PG151626601
+	OBJ151626605 == 0
+	push_object OBJ151626605
+	def ,`POINT00001`,463,10,
+	def ,`POINT00002`,529,177,
+	def ,`link`,`page 1`,yes,
+	def ,`name`,`E:\Users\gtsrental\Documents\Aben\TexasA&M\CSCE482\website\images\logo.png`,yes,
+	def ,`styleclass`,CS1516266047,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10000`,`G_IMAGE`,OBJ151626605,
+	OBJ151626606 == 0
+	push_object OBJ151626606
+	def ,`POINT00001`,357,184,
+	def ,`POINT00002`,614,220,
+	def ,`fgc`,`#003333`,yes,
+	def ,`font`,`Trajan Pro#20#Bold#0#0#0`,yes,
+	def ,`name`,`DEVELOPER`,yes,
+	def ,`styleclass`,CS1516266020,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10001`,`G_TEXT`,OBJ151626606,
+	OBJ151626607 == 0
+	push_object OBJ151626607
+	def ,`POINT00001`,97,233,
+	def ,`POINT00002`,896,233,
+	def ,`styleclass`,CS1516266022,yes,
+	def ,`type`,`G_LINE`,yes,
+	pop_current_object
+	def ,`10002`,`G_LINE`,OBJ151626607,
+	OBJ151626608 == 0
+	push_object OBJ151626608
+	def ,`POINT00001`,97,276,
+	def ,`POINT00002`,896,735,
+	def ,`brightness`,255,yes,
+	def ,`name`,`Clipart\Rectangle\pure_gray.gif`,yes,
+	def ,`translucence`,150,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10003`,`G_IMAGE`,OBJ151626608,
+	OBJ151626609 == 0
+	push_object OBJ151626609
+	def ,`POINT00001`,97,237,
+	def ,`POINT00002`,237,266,
+	def ,`name`,#@Home#,yes,
+	def ,`styleclass`,CS1516266042,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10004`,`G_TEXT`,OBJ151626609,
+	OBJ1516266010 == 0
+	push_object OBJ1516266010
+	def ,`POINT00001`,426,237,
+	def ,`POINT00002`,566,266,
+	def ,`link`,`page 3`,yes,
+	def ,`name`,`Download`,yes,
+	def ,`styleclass`,CS1516266037,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10005`,`G_TEXT`,OBJ1516266010,
+	OBJ1516266011 == 0
+	push_object OBJ1516266011
+	def ,`POINT00001`,755,235,
+	def ,`POINT00002`,895,264,
+	def ,`link`,`page 6`,yes,
+	def ,`name`,#@ContactUs#,yes,
+	def ,`styleclass`,CS1516266037,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10006`,`G_TEXT`,OBJ1516266011,
+	def ,`htm_file_name`,`developer.htm`,yes,
+	def ,`htm_head_icon`,`E:\Users\gtsrental\Documents\Aben\TexasA&M\CSCE315\final project\build\images\yoop.ico`,yes,
+	def ,`styleclass`,CS1516266047,yes,
+	def ,`thumb`,411,yes,
+	def ,`title`,`Developer`,yes,
+	pop_current_object
+	def ,`page002`,PG151626601,yes,
+	PG151626602 == 0
+	push_object PG151626602
+	OBJ1516266016 == 0
+	push_object OBJ1516266016
+	def ,`POINT00001`,44,6,
+	def ,`POINT00002`,77,89,
+	def ,`link`,`page 1`,yes,
+	def ,`name`,`E:\Users\gtsrental\Documents\Aben\TexasA&M\CSCE482\website\images\logo.png`,yes,
+	def ,`styleclass`,CS1516266047,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10000`,`G_IMAGE`,OBJ1516266016,
+	OBJ1516266017 == 0
+	push_object OBJ1516266017
+	def ,`POINT00001`,3,100,
+	def ,`POINT00002`,1315,100,
+	def ,`styleclass`,CS1516266022,yes,
+	def ,`type`,`G_LINE`,yes,
+	pop_current_object
+	def ,`10001`,`G_LINE`,OBJ1516266017,
+	OBJ1516266018 == 0
+	push_object OBJ1516266018
+	def ,`POINT00001`,6,155,
+	def ,`POINT00002`,1329,1894,
+	def ,`brightness`,255,yes,
+	def ,`name`,`Clipart\Rectangle\pure_gray.gif`,yes,
+	def ,`translucence`,150,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10002`,`G_IMAGE`,OBJ1516266018,
+	OBJ1516266019 == 0
+	push_object OBJ1516266019
+	def ,`POINT00001`,3,105,
+	def ,`POINT00002`,233,137,
+	def ,`link`,`page 2`,yes,
+	def ,`name`,#@Home#,yes,
+	def ,`styleclass`,CS1516266037,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10003`,`G_TEXT`,OBJ1516266019,
+	OBJ1516266020 == 0
+	push_object OBJ1516266020
+	def ,`POINT00001`,535,104,
+	def ,`POINT00002`,765,136,
+	def ,`name`,`Application`,yes,
+	def ,`styleclass`,CS1516266042,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10004`,`G_TEXT`,OBJ1516266020,
+	OBJ1516266021 == 0
+	push_object OBJ1516266021
+	def ,`POINT00001`,1068,104,
+	def ,`POINT00002`,1298,136,
+	def ,`link`,`page 6`,yes,
+	def ,`name`,#@ContactUs#,yes,
+	def ,`styleclass`,CS1516266037,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10005`,`G_TEXT`,OBJ1516266021,
+	OBJ1516266022 == 0
+	push_object OBJ1516266022
+	def ,`POINT00001`,429,40,
+	def ,`POINT00002`,850,79,
+	def ,`fgc`,`#003333`,yes,
+	def ,`font`,`Trajan Pro#20#Bold#0#0#0`,yes,
+	def ,`name`,`S.I.R Service`,yes,
+	def ,`styleclass`,CS1516266020,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10006`,`G_TEXT`,OBJ1516266022,
+	OBJ1516266024 == 0
+	push_object OBJ1516266024
+	def ,`POINT00001`,1195,9,
+	def ,`POINT00002`,1328,33,
+	def ,`name`,`E:\Users\gtsrental\Documents\Aben\TexasA&M\CSCE315\final project\logout_button.JPG`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10007`,`G_IMAGE`,OBJ1516266024,
+	def ,`htm_file_name`,`download.htm`,yes,
+	def ,`htm_head_icon`,`E:\Users\gtsrental\Documents\Aben\TexasA&M\CSCE315\final project\build\images\yoop.ico`,yes,
+	def ,`page_depth`,2000,yes,
+	def ,`page_width`,1336,yes,
+	def ,`styleclass`,CS1516266047,yes,
+	def ,`thumb`,409,yes,
+	def ,`title`,`Download`,yes,
+	pop_current_object
+	def ,`page003`,PG151626602,yes,
+	PG151626603 == 0
+	push_object PG151626603
+	OBJ1516266025 == 0
+	push_object OBJ1516266025
+	def ,`POINT00001`,463,10,
+	def ,`POINT00002`,529,177,
+	def ,`link`,`page 1`,yes,
+	def ,`name`,`E:\Users\gtsrental\Documents\Aben\TexasA&M\CSCE482\website\images\logo.png`,yes,
+	def ,`styleclass`,CS1516266047,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10000`,`G_IMAGE`,OBJ1516266025,
+	OBJ1516266026 == 0
+	push_object OBJ1516266026
+	def ,`POINT00001`,97,233,
+	def ,`POINT00002`,896,233,
+	def ,`styleclass`,CS1516266022,yes,
+	def ,`type`,`G_LINE`,yes,
+	pop_current_object
+	def ,`10001`,`G_LINE`,OBJ1516266026,
+	OBJ1516266027 == 0
+	push_object OBJ1516266027
+	def ,`POINT00001`,97,276,
+	def ,`POINT00002`,896,735,
+	def ,`brightness`,255,yes,
+	def ,`name`,`Clipart\Rectangle\pure_gray.gif`,yes,
+	def ,`translucence`,150,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10002`,`G_IMAGE`,OBJ1516266027,
+	OBJ1516266028 == 0
+	push_object OBJ1516266028
+	def ,`POINT00001`,97,238,
+	def ,`POINT00002`,237,267,
+	def ,`link`,`page 2`,yes,
+	def ,`name`,#@Home#,yes,
+	def ,`styleclass`,CS1516266037,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10003`,`G_TEXT`,OBJ1516266028,
+	OBJ1516266029 == 0
+	push_object OBJ1516266029
+	def ,`POINT00001`,753,238,
+	def ,`POINT00002`,893,267,
+	def ,`name`,`Contact Us`,yes,
+	def ,`styleclass`,CS1516266042,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10004`,`G_TEXT`,OBJ1516266029,
+	OBJ1516266030 == 0
+	push_object OBJ1516266030
+	def ,`POINT00001`,425,238,
+	def ,`POINT00002`,565,267,
+	def ,`link`,`page 2`,yes,
+	def ,`name`,`Download`,yes,
+	def ,`styleclass`,CS1516266037,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10005`,`G_TEXT`,OBJ1516266030,
+	OBJ1516266031 == 0
+	push_object OBJ1516266031
+	def ,`POINT00001`,165,314,
+	def ,`POINT00002`,907,606,
+	def ,`fgc`,`#404040`,yes,
+	def ,`font`,`Arial#12#Normal#0#0#0`,yes,
+	def ,`name`,`<DIV>If you experience any difficulties or have any suggestions please contact us:</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG><FONT size="4"><U>DESIGN HQ</U>:</FONT></STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT size="2">Texas A&amp;M University</FONT></DIV>
+<DIV><FONT size="2">Department of Computer Science</FONT></DIV>
+<DIV><FONT size="2">College Station, TX 77843<BR class="Apple-interchange-newline"></FONT></DIV>
+<DIV><FONT size="2">979.402.5712</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>You can reach us 24/7 at</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><A href="mailto:support@sirservice.com"><FONT size="2"><EM>support@sirservice.com</EM></FONT></A></DIV>
+<DIV><EM></EM>&nbsp;</DIV>`,yes,
+	def ,`subtype`,`html`,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10006`,`G_TEXT`,OBJ1516266031,
+	OBJ1516266032 == 0
+	push_object OBJ1516266032
+	def ,`POINT00001`,592,353,
+	def ,`POINT00002`,848,587,
+	def ,`brightness`,-20,yes,
+	def ,`name`,`E:\Users\gtsrental\Documents\Aben\TexasA&M\CSCE315\final project\photos\Down-Arrow-Icon1.jpg`,yes,
+	def ,`translucence`,11,`#ececec`,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10007`,`G_IMAGE`,OBJ1516266032,
+	OBJ1516266033 == 0
+	push_object OBJ1516266033
+	def ,`POINT00001`,366,184,
+	def ,`POINT00002`,623,220,
+	def ,`fgc`,`#003333`,yes,
+	def ,`font`,`Trajan Pro#20#Bold#0#0#0`,yes,
+	def ,`name`,`S.I.R. Service`,yes,
+	def ,`styleclass`,CS1516266020,yes,
+	def ,`type`,`G_TEXT`,yes,
+	pop_current_object
+	def ,`10008`,`G_TEXT`,OBJ1516266033,
+	OBJ1516266034 == 0
+	push_object OBJ1516266034
+	def ,`POINT00001`,838,24,
+	def ,`POINT00002`,971,48,
+	def ,`name`,`E:\Users\gtsrental\Documents\Aben\TexasA&M\CSCE315\final project\logout_button.JPG`,yes,
+	def ,`type`,`G_IMAGE`,yes,
+	pop_current_object
+	def ,`10009`,`G_IMAGE`,OBJ1516266034,
+	def ,`htm_file_name`,`contact.htm`,yes,
+	def ,`htm_head_icon`,`E:\Users\gtsrental\Documents\Aben\TexasA&M\CSCE315\final project\build\images\yoop.ico`,yes,
+	def ,`styleclass`,CS1516266047,yes,
+	def ,`thumb`,410,yes,
+	def ,`title`,`Contact Us`,yes,
+	pop_current_object
+	def ,`page004`,PG151626603,yes,
+	def ,`page_depth`,768,yes,
+	def ,`page_width`,994,yes,
+	def ,`row`,192,yes,
+	def ,`scale_unit`,`pixel`,yes,
+	SCS151626600 == 0
+	push_object SCS151626600
+	CS151626600 == 0
+	push_object CS151626600
+	def ,`css`,`text-decoration :underline;`,yes,
+	pop_current_object
+	def ,`<A:hover>`,CS151626600,yes,
+	CS151626601 == 0
+	push_object CS151626601
+	def ,`css`,`text-decoration :none;`,yes,
+	pop_current_object
+	def ,`<A:link>`,CS151626601,yes,
+	CS151626602 == 0
+	push_object CS151626602
+	def ,`css`,`text-decoration :none;`,yes,
+	pop_current_object
+	def ,`<A:visited>`,CS151626602,yes,
+	CS151626603 == 0
+	push_object CS151626603
+	def ,`border`,`rectangle`,yes,
+	def ,`css`,`white-space     : nowrap;
+vertical-align  : middle;`,yes,
+	def ,`justify`,`left`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	def ,`padding`,2,yes,
+	def ,`transparent`,no,yes,
+	pop_current_object
+	def ,`<table.ct07 .ch07 th>`,CS151626603,yes,
+	CS151626604 == 0
+	push_object CS151626604
+	def ,`fgc`,`#000000`,yes,
+	pop_current_object
+	def ,`<table.ct07 caption>`,CS151626604,yes,
+	CS151626605 == 0
+	push_object CS151626605
+	def ,`border`,`rectangle`,yes,
+	def ,`css`,`white-space     : nowrap;
+vertical-align  : middle;`,yes,
+	def ,`justify`,`right`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	def ,`padding`,2,yes,
+	pop_current_object
+	def ,`<table.ct07 td>`,CS151626605,yes,
+	CS151626606 == 0
+	push_object CS151626606
+	def ,`border`,`rectangle`,yes,
+	def ,`css`,`white-space     : nowrap;
+vertical-align  : middle;`,yes,
+	def ,`justify`,`left`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	def ,`padding`,2,yes,
+	def ,`transparent`,no,yes,
+	pop_current_object
+	def ,`<table.ct07 th>`,CS151626606,yes,
+	CS151626607 == 0
+	push_object CS151626607
+	def ,`border`,`rectangle`,yes,
+	def ,`justify`,`center`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	pop_current_object
+	def ,`<table.ct07>`,CS151626607,yes,
+	CS151626608 == 0
+	push_object CS151626608
+	def ,`fgc`,`#003333`,yes,
+	def ,`font`,`Verdana#8#Normal#0#0#0`,yes,
+	def ,`tag`,`ADDRESS`,yes,
+	pop_current_object
+	def ,`address`,CS151626608,yes,
+	CS151626609 == 0
+	push_object CS151626609
+	def ,`font`,`Arial#10#Normal#1#0#0`,yes,
+	def ,`tag`,`CITE`,yes,
+	pop_current_object
+	def ,`citation`,CS151626609,yes,
+	CS1516266010 == 0
+	push_object CS1516266010
+	def ,`font`,`Courier New#10#Normal#0#0#0`,yes,
+	def ,`tag`,`CODE`,yes,
+	pop_current_object
+	def ,`code`,CS1516266010,yes,
+	CS1516266011 == 0
+	push_object CS1516266011
+	def ,`adjust rgb`,`-31 44 63`,yes,
+	def ,`bgc`,`#a1ecff`,yes,
+	def ,`fgc`,`#a1ecff`,yes,
+	pop_current_object
+	def ,`deco`,CS1516266011,yes,
+	CS1516266012 == 0
+	push_object CS1516266012
+	def ,`font`,`Arial#10#Bold#0#0#0`,yes,
+	def ,`tag`,`EM`,yes,
+	pop_current_object
+	def ,`emphasis`,CS1516266012,yes,
+	CS1516266013 == 0
+	push_object CS1516266013
+	def ,`fgc`,`#00ccff`,yes,
+	def ,`font`,`Verdana#8#Normal#0#0#0`,yes,
+	def ,`justify`,`left`,yes,
+	def ,`tag`,`H6`,yes,
+	pop_current_object
+	def ,`footer`,CS1516266013,yes,
+	CS1516266014 == 0
+	push_object CS1516266014
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`footer_box`,CS1516266014,yes,
+	CS1516266015 == 0
+	push_object CS1516266015
+	def ,`bgc`,`#9fecff`,yes,
+	def ,`fgc`,`#003333`,yes,
+	def ,`font`,`Verdana#10#Normal#0#0#0`,yes,
+	pop_current_object
+	def ,`form_button`,CS1516266015,yes,
+	CS1516266016 == 0
+	push_object CS1516266016
+	def ,`bdc`,`#ffffff`,yes,
+	def ,`bgc`,`#9fecff`,yes,
+	def ,`border`,`rectangle`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	pop_current_object
+	def ,`form_input`,CS1516266016,yes,
+	CS1516266017 == 0
+	push_object CS1516266017
+	def ,`fgc`,`#003333`,yes,
+	def ,`font`,`Verdana#8#Normal#0#0#0`,yes,
+	def ,`justify`,`left`,yes,
+	pop_current_object
+	def ,`form_label`,CS1516266017,yes,
+	CS1516266018 == 0
+	push_object CS1516266018
+	def ,`fgc`,`#000000`,yes,
+	pop_current_object
+	def ,`form_legend`,CS1516266018,yes,
+	CS1516266019 == 0
+	push_object CS1516266019
+	def ,`border`,`none`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,1,yes,
+	pop_current_object
+	def ,`form_set`,CS1516266019,yes,
+	CS1516266020 == 0
+	push_object CS1516266020
+	def ,`fgc`,`#003333`,yes,
+	def ,`font`,`Times New Roman#20#Bold#0#0#0`,yes,
+	def ,`justify`,`center`,yes,
+	def ,`tag`,`H1`,yes,
+	pop_current_object
+	def ,`header`,CS1516266020,yes,
+	CS1516266021 == 0
+	push_object CS1516266021
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`header_box`,CS1516266021,yes,
+	CS1516266022 == 0
+	push_object CS1516266022
+	def ,`bgc`,`#000000`,yes,
+	def ,`fgc`,`#003333`,yes,
+	def ,`font`,`Times New Roman#28#Normal#0#0#0`,yes,
+	def ,`justify`,`center`,yes,
+	def ,`tag`,`H1`,yes,
+	def ,`transparent`,`yes`,yes,
+	pop_current_object
+	def ,`heading1`,CS1516266022,yes,
+	CS1516266023 == 0
+	push_object CS1516266023
+	def ,`font`,`Arial#20#Normal#0#0#0`,yes,
+	def ,`tag`,`H2`,yes,
+	pop_current_object
+	def ,`heading2`,CS1516266023,yes,
+	CS1516266024 == 0
+	push_object CS1516266024
+	def ,`fgc`,`#003333`,yes,
+	def ,`font`,`Times New Roman#18#Normal#0#0#0`,yes,
+	def ,`justify`,`center`,yes,
+	def ,`tag`,`H3`,yes,
+	pop_current_object
+	def ,`heading3`,CS1516266024,yes,
+	CS1516266025 == 0
+	push_object CS1516266025
+	def ,`font`,`Arial#14#Normal#0#0#0`,yes,
+	def ,`tag`,`H4`,yes,
+	pop_current_object
+	def ,`heading4`,CS1516266025,yes,
+	CS1516266026 == 0
+	push_object CS1516266026
+	def ,`font`,`Arial#12#Normal#0#0#0`,yes,
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`heading5`,CS1516266026,yes,
+	CS1516266027 == 0
+	push_object CS1516266027
+	def ,`font`,`Arial#10#Bold#0#0#0`,yes,
+	def ,`tag`,`H6`,yes,
+	pop_current_object
+	def ,`heading6`,CS1516266027,yes,
+	CS1516266028 == 0
+	push_object CS1516266028
+	def ,`fgc`,`#003333`,yes,
+	def ,`font`,`Verdana#8#Normal#0#0#0`,yes,
+	pop_current_object
+	def ,`info`,CS1516266028,yes,
+	CS1516266029 == 0
+	push_object CS1516266029
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`info_box`,CS1516266029,yes,
+	CS1516266030 == 0
+	push_object CS1516266030
+	def ,`fgc`,`#003333`,yes,
+	def ,`font`,`Verdana#8#Bold#0#0#0`,yes,
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`info_tag`,CS1516266030,yes,
+	CS1516266031 == 0
+	push_object CS1516266031
+	def ,`fgc`,`#003333`,yes,
+	def ,`font`,`Verdana#8#Normal#0#0#0`,yes,
+	pop_current_object
+	def ,`item`,CS1516266031,yes,
+	CS1516266032 == 0
+	push_object CS1516266032
+	def ,`adjust rgb`,`1 50 63`,yes,
+	def ,`bgc`,`#c1f2ff`,yes,
+	def ,`fgc`,`#c1f2ff`,yes,
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`item_box`,CS1516266032,yes,
+	CS1516266033 == 0
+	push_object CS1516266033
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`item_tag`,CS1516266033,yes,
+	CS1516266034 == 0
+	push_object CS1516266034
+	def ,`adjust rgb`,`0 0 0`,yes,
+	def ,`bgc`,`#c0c0c0`,yes,
+	def ,`fgc`,`#c0c0c0`,yes,
+	pop_current_object
+	def ,`logo`,CS1516266034,yes,
+	CS1516266035 == 0
+	push_object CS1516266035
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`logo_box`,CS1516266035,yes,
+	CS1516266036 == 0
+	push_object CS1516266036
+	def ,`tag`,`H4`,yes,
+	pop_current_object
+	def ,`logo_tag`,CS1516266036,yes,
+	CS1516266037 == 0
+	push_object CS1516266037
+	def ,`fgc`,`#003333`,yes,
+	def ,`font`,`Times New Roman#14#Normal#0#0#0`,yes,
+	def ,`justify`,`center`,yes,
+	def ,`padding`,2,yes,
+	def ,`transparent`,`yes`,yes,
+	pop_current_object
+	def ,`navigation`,CS1516266037,yes,
+	CS1516266038 == 0
+	push_object CS1516266038
+	def ,`css`,`text-decoration :underline;`,yes,
+	pop_current_object
+	def ,`navigation:hover`,CS1516266038,yes,
+	CS1516266039 == 0
+	push_object CS1516266039
+	def ,`css`,`text-decoration :none;`,yes,
+	pop_current_object
+	def ,`navigation:link`,CS1516266039,yes,
+	CS1516266040 == 0
+	push_object CS1516266040
+	def ,`css`,`text-decoration :none;`,yes,
+	pop_current_object
+	def ,`navigation:visited`,CS1516266040,yes,
+	CS1516266041 == 0
+	push_object CS1516266041
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`navigation_box`,CS1516266041,yes,
+	CS1516266042 == 0
+	push_object CS1516266042
+	def ,`fgc`,`#d8f7ff`,yes,
+	def ,`font`,`Times New Roman#14#Normal#0#0#0`,yes,
+	def ,`justify`,`center`,yes,
+	def ,`padding`,2,yes,
+	def ,`transparent`,`yes`,yes,
+	pop_current_object
+	def ,`navigation_pin`,CS1516266042,yes,
+	CS1516266043 == 0
+	push_object CS1516266043
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`navigation_tag`,CS1516266043,yes,
+	CS1516266044 == 0
+	push_object CS1516266044
+	def ,`tag`,`H6`,yes,
+	pop_current_object
+	def ,`news`,CS1516266044,yes,
+	CS1516266045 == 0
+	push_object CS1516266045
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`news_box`,CS1516266045,yes,
+	CS1516266046 == 0
+	push_object CS1516266046
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`news_tag`,CS1516266046,yes,
+	CS1516266047 == 0
+	push_object CS1516266047
+	def ,`adjust rgb`,`-31 44 63`,yes,
+	def ,`bgc`,`#a1ecff`,yes,
+	def ,`gradient`,`#00ccff #ffffff 0`,yes,
+	pop_current_object
+	def ,`page`,CS1516266047,yes,
+	CS1516266048 == 0
+	push_object CS1516266048
+	def ,`adjust rgb`,`-103 29 63`,yes,
+	def ,`bgc`,`#59ddff`,yes,
+	def ,`fgc`,`#59ddff`,yes,
+	def ,`transparent`,`yes`,yes,
+	pop_current_object
+	def ,`page_box`,CS1516266048,yes,
+	CS1516266049 == 0
+	push_object CS1516266049
+	def ,`fgc`,`#003333`,yes,
+	def ,`font`,`Verdana#10#Bold#0#0#0`,yes,
+	def ,`tag`,`H4`,yes,
+	pop_current_object
+	def ,`page_tag`,CS1516266049,yes,
+	CS1516266050 == 0
+	push_object CS1516266050
+	def ,`fgc`,`#000000`,yes,
+	pop_current_object
+	def ,`panel`,CS1516266050,yes,
+	CS1516266051 == 0
+	push_object CS1516266051
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`panel_box`,CS1516266051,yes,
+	CS1516266052 == 0
+	push_object CS1516266052
+	def ,`bdc`,`#ffffff`,yes,
+	def ,`border`,`rectangle`,yes,
+	def ,`line style`,`solid`,yes,
+	def ,`line width`,3,yes,
+	pop_current_object
+	def ,`photo`,CS1516266052,yes,
+	CS1516266053 == 0
+	push_object CS1516266053
+	def ,`transparent`,`no`,yes,
+	pop_current_object
+	def ,`photo_box`,CS1516266053,yes,
+	CS1516266054 == 0
+	push_object CS1516266054
+	def ,`tag`,`H5`,yes,
+	pop_current_object
+	def ,`photo_tag`,CS1516266054,yes,
+	CS1516266055 == 0
+	push_object CS1516266055
+	def ,`font`,`Arial#8#Normal#0#0#0`,yes,
+	def ,`tag`,`SMALL`,yes,
+	pop_current_object
+	def ,`small`,CS1516266055,yes,
+	pop_current_object
+	def ,`styles`,SCS151626600,yes,
+	def ,`width`,1345,yes,
+	pop_current_object
+end
+
+;==EndOfFile==
